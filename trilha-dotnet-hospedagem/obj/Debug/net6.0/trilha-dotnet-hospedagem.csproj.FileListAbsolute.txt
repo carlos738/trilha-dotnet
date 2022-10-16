@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\bin\Debug\net6.0\trilha-dotnet-hospedagem.exe
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\bin\Debug\net6.0\trilha-dotnet-hospedagem.deps.json
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\bin\Debug\net6.0\trilha-dotnet-hospedagem.runtimeconfig.json
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\bin\Debug\net6.0\trilha-dotnet-hospedagem.dll
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\bin\Debug\net6.0\trilha-dotnet-hospedagem.pdb
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.dll
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\refint\trilha-dotnet-hospedagem.dll
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.pdb
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\trilha-dotnet-hospedagem.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\Nova pasta\trilha\trilha-dotnet\trilha-dotnet-hospedagem\obj\Debug\net6.0\ref\trilha-dotnet-hospedagem.dll
